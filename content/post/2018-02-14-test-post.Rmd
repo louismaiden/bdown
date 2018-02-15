@@ -1,0 +1,11 @@
+---
+title: Test Post
+author: LM
+date: '2018-02-14'
+slug: test-post
+categories:
+  - R
+tags:
+  - regression
+---
+
