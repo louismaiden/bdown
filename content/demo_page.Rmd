@@ -5,7 +5,7 @@ date: "February 14, 2018"
 output: html_document
 ---
 
-Here is the [homework](../speed.pdf).
+Here is the hw.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
